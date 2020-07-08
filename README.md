@@ -3,7 +3,7 @@
 
 ## ##
 
-### No módulo main temos todas as funções e o menu para se conectar e se registrar e utilizar as demais opções ###
+### No módulo 'main.py' temos todas as funções e o menu para se conectar, registrar e utilizar as demais opções ###
 
 ## ##
 
